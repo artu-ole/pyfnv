@@ -10,6 +10,6 @@ setup(
     author_email='balciunas90@gmail.com',
     license='MIT',
     packages=['fnv'],
-    install_requires=['typing==3.5.2.2'],
+    install_requires=[],
     zip_safe=False
 )
